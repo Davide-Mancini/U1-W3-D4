@@ -18,7 +18,7 @@ h1 {
 
 .caselleNumeri {
   display: inline-block;
-  width: 5%;
+  width: 8%;
   height: 50px;
   background-color: white;
   border: 1px solid black;
@@ -26,4 +26,16 @@ h1 {
 }
 #caselle {
   background-color: green;
+}
+.estratto {
+  background-color: blue;
+}
+#bottone {
+  border-radius: 10px;
+  font-size: x-large;
+  margin: 20px;
+  display: inline-block;
+  color: white;
+  background-color: blueviolet;
+  box-shadow: 5px 5px 5px 0px black;
 }
